@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello i'm Reuben, welcome to my GitHub Repository! </h1>
+<h1 align="center">Hello i'm Reuben, welcome to my GitHub! </h1>
 <h3 align="center">I am an experienced data consultant, highly skilled in data preparation & visualisation, stakeholder relationship management and value delivery within a diverse range of client portfolios & delivery models</h3>
 
 ---
