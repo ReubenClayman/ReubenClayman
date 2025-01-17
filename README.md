@@ -5,30 +5,9 @@
 
 ---
 
-<h3 align="left"> Technologies & Tools: </h1>
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-   </a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <!-- Adding Tableau, PowerBI, Looker, Qlik -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="powerbi" width="40" height="40"/> 
-  </a> 
-</p>
+<h3 align="center"> View some of my previous Tableau dashboards published to my Tableau Public! </h3>
 
----
-
-## ⭐ Data Viz Projects
-  </a>
+</a>
 <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/HelpDeskDashboardRWFD1/HelpDeskDashboard">
     <img src="https://public.tableau.com/thumb/views/HelpDeskDashboardRWFD1/HelpDeskDashboard" width ="33%">
   </a>
@@ -38,8 +17,7 @@
   <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/SalesPipelineDashboard_17230252762430/LeadGeneration">
     <img src="https://public.tableau.com/thumb/views/SalesPipelineDashboard_17230252762430/LeadGeneration" width ="33%">
   </a>
-
-  
+   
 ---
 ## Key Projects and Roles
 
@@ -72,6 +50,28 @@ A 6 month placement through The Information Lab
 - **Tableau, Certified Data Analyst** 
 - **Power BI Certified Data Analyst**
 - **DataCamp, Associate Data Analyst in SQL**
+
+---
+
+<h3 align="left"> Technologies & Tools: </h1>
+<p align="left"> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+   </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <!-- Adding Tableau, PowerBI, Looker, Qlik -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="40" height="40"/> 
+  </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="powerbi" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
 ## Let's Connect
