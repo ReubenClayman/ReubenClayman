@@ -9,17 +9,17 @@
 
 </a>
 <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/HelpDeskDashboardRWFD1/HelpDeskDashboard">
-    <img src="https://public.tableau.com/thumb/views/HelpDeskDashboardRWFD1/HelpDeskDashboard" width ="50%">    
+    <img src="https://public.tableau.com/thumb/views/HelpDeskDashboardRWFD1/HelpDeskDashboard" width ="49%">    
 	
   </a>
   <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/SUPERSTORESALESDASHBOARD_17260521829740/SALESDASHBOARD">
-    <img src="https://public.tableau.com/thumb/views/SUPERSTORESALESDASHBOARD_17260521829740/SALESDASHBOARD" width ="50%">
+    <img src="https://public.tableau.com/thumb/views/SUPERSTORESALESDASHBOARD_17260521829740/SALESDASHBOARD" width ="49%">
   </a>
   <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/SalesPipelineDashboard_17230252762430/LeadGeneration">
-    <img src="https://public.tableau.com/thumb/views/SalesPipelineDashboard_17230252762430/LeadGeneration" width ="50%">
+    <img src="https://public.tableau.com/thumb/views/SalesPipelineDashboard_17230252762430/LeadGeneration" width ="49%">
   </a>
   <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/CALLCENTERDASHBOARDRWFDWIP/CALLCENTREDASHBOARD">
-    <img src="https://public.tableau.com/thumb/views/CALLCENTERDASHBOARDRWFDWIP/CALLCENTREDASHBOARD" width ="50%">
+    <img src="https://public.tableau.com/thumb/views/CALLCENTERDASHBOARDRWFDWIP/CALLCENTREDASHBOARD" width ="49%">
   </a>
 
 
