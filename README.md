@@ -55,7 +55,8 @@ A 6 month placement through The Information Lab
 ### **Certifications**:
 - **Alteryx, Designer Core Certification**
 - **Tableau, Certified Data Analyst** 
-- **Power BI Certified Data Analyst** 
+- **Power BI Certified Data Analyst**
+- **DataCamp, Associate Data Analyst in SQL**
 
 ---
 ## Let's Connect
