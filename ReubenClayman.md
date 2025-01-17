@@ -4,7 +4,7 @@
 
 ---
 
-### **Technologies & Tools:**
+<h3 align="left"> Technologies & Tools: </h1>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -15,18 +15,12 @@
    </a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
   <!-- Adding Tableau, PowerBI, Looker, Qlik -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="powerbi" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -38,6 +32,11 @@
 - **Power BI Certified Data Analyst** 
 
 ---
+## Let's Connect
+<p align="left"> 
+	<a href="https://public.tableau.com/app/profile/reuben.clayman/vizzes"><img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Public"/></a>
+	<a href="https://www.linkedin.com/in/reuben-clayman-844260161/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/></a>
+ 
 
 <!--
 **ReubenClayman/ReubenClayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
