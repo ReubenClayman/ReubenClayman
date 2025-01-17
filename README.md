@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello and welcome to my GitHub Repository, This is where I have saved some of my SQL codes! </h1>
+<h1 align="center">Hello i'm Reuben, welcome to my GitHub Repository! This is where I have saved some of my SQL codes and Tableau Portfolio </h1>
 <h3 align="center">I am an experienced data consultant, highly skilled in data preparation & visualisation, stakeholder relationship management and value delivery within a diverse range of client portfolios & delivery models</h3>
 
 ---
