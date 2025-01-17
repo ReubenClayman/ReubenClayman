@@ -17,6 +17,8 @@
   <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/SalesPipelineDashboard_17230252762430/LeadGeneration">
     <img src="https://public.tableau.com/thumb/views/SalesPipelineDashboard_17230252762430/LeadGeneration" width ="33%">
   </a>
+
+ **Click here to view my Tableau Public Profile <a href="https://public.tableau.com/app/profile/reuben.clayman/vizzes"><img src="https://img.icons8.com/?size=30&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau Public"/></a>**
    
 ---
 ## Key Projects and Roles
