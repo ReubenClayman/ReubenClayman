@@ -24,13 +24,21 @@
     <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="powerbi" width="40" height="40"/> 
   </a> 
 </p>
+
 ---
 
 ## ⭐ Data Viz Projects
   </a>
 <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/HelpDeskDashboardRWFD1/HelpDeskDashboard">
-    <img src="https://haproxy-traffic-splitter/views/HelpDeskDashboardRWFD1/HelpDeskDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width ="25%">
+    <img src="https://public.tableau.com/thumb/views/HelpDeskDashboardRWFD1/HelpDeskDashboard" width ="33%">
   </a>
+  <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/SUPERSTORESALESDASHBOARD_17260521829740/SALESDASHBOARD">
+    <img src="https://public.tableau.com/thumb/views/SUPERSTORESALESDASHBOARD_17260521829740/SALESDASHBOARD" width ="33%">
+  </a>
+  <a href="https://public.tableau.com/app/profile/reuben.clayman/viz/SalesPipelineDashboard_17230252762430/LeadGeneration">
+    <img src="https://public.tableau.com/thumb/views/SalesPipelineDashboard_17230252762430/LeadGeneration" width ="33%">
+  </a>
+
   
 ---
 ## Key Projects and Roles
