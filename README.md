@@ -31,6 +31,7 @@
 I am proficient in leveraging leading BI and analytics tools to drive data-driven insights and enable strategic decision-making in a range of sectors and departments.
 
 **The Information Lab: Tableau and Alteryx Consultant**: 
+---
 Completed four months of industry-leading intensive training in Tableau and Alteryx, with additional SQL and Power BI. Followed by two years of experience engaging in diverse consultancy projects, ranging from one week to six-month engagements. With clients from smaller startup companies to large national companies and multinational conglomerates.
 - Developing ETL Processess
 - Automation of manual reporting 
@@ -39,12 +40,14 @@ Completed four months of industry-leading intensive training in Tableau and Alte
 
   
 **Paramount Global: Tableau Developer**: 
+---
 A 6 month placement through The Information Lab
 - Liaised with cross-departmental stakeholders to develop two centralised operational KPI dashboards. Validating data from MUX and Big Panda using SQL Snowflake.
 - Replacing the monthly manual creation of a 30-slide deck with two interactive Tableau dashboards. Allowing on-demand access to streamlined and automated dashboards following best practices.
 
   
 **John Lewis Partners: Tableau Enablement Specialist**: 
+---
 A 6 month placement through The Information Lab
 - Aided the rollout and training of Tableau Desktop and Cloud within the Enablement Team.
 - Designed and delivered comprehensive training programs, including live and on-demand sessions, to enhance data literacy and drive user adoption.
@@ -56,7 +59,8 @@ A 6 month placement through The Information Lab
 - **Alteryx, Designer Core Certification**
 - **Tableau, Certified Data Analyst** 
 - **Power BI Certified Data Analyst**
-- **DataCamp, Associate Data Analyst in SQL**
+- **DataCamp, Associate Data Analyst**
+- **DataCamp, SQL Associate**
 
 ---
 
